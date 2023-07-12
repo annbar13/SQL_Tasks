@@ -172,21 +172,6 @@ VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 
 ![image](https://user-images.githubusercontent.com/101512808/220184874-b347df05-841c-4da8-8ec8-190eee826d78.png)
 
-## Subtask 2
-
-13/15
-
-![image](https://user-images.githubusercontent.com/101512808/220418533-0fd3ea6b-3979-4b62-8456-9c4088efabf3.png)
-
-
-## Subtask 3
-
-Portfolio Link :blush:
-
-[Anna_Barcz_Portfolio](https://github.com/annbar13/AnnaBarcz_PORTFOLIO.git)
-
-
-
 # Task 5
 
 *SQL Part 1*
